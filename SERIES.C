@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-  int i,n,j;
+  int i,n;
   float sum=0,fact=1;
   clrscr();
   printf("Enter n(1<=n<=8):");
