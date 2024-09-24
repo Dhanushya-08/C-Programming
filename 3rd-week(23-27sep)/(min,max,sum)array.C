@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-  int max,min,sum=0,arr1[10],arr2[10],arr3[10],n,i;
+  int max,min,sum=0,arr1[10],arr2[10],n,i;
   clrscr();
   printf("Enter the count of elements in an array:");
   scanf("%d",& n);
